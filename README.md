@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Entry-level Software Developer
 ------------------------------
 
-I\`ve been learning to code for 1 year because I want to change my career.Istarted with HTML , CSS and JavaScript ,but have really found a passion for backend.Now i´m learning Laravel and MySQL. Looking for an opportunity to grow and learn in a collaborative development team
+I\`ve been learning to code for 1 year because I want to change my career.I started with HTML , CSS and JavaScript ,but have really found a passion for backend.Now i´m learning Laravel and MySQL. Looking for an opportunity to grow and learn in a collaborative development team
 
 * 🌍  I'm based in Parsberg,Bavaria
 * ✉️  You can contact me at [dinueugenmarin@gmail.com](mailto:dinueugenmarin@gmail.com)
